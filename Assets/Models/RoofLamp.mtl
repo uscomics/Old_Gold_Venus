@@ -1,0 +1,38 @@
+newmtl Preview
+Ns 10
+Ka 0 0 0
+Kd 0.992157 0.992157 0.992157
+Ks 1 1 1
+d 1
+newmtl inside
+Ns 10
+Ka 0 0 0
+Kd 0.839216 0.839216 0.678431
+Ks 0.372549 0.372549 0.372549
+d 1
+newmtl outside
+Ns 10
+Ka 0 0 0
+Kd 0.839216 0.839216 0.678431
+Ks 0.372549 0.372549 0.372549
+d 1
+newmtl lamp
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.898039 0.898039 0.898039
+map_Bump  cap.tif
+d 0.8
+newmtl bakel
+Ns 33.3333
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+map_Kd BAKEL.tif
+d 1
+newmtl wire
+Ns 10
+Ka 0 0 0
+Kd 0.184314 0.184314 0.184314
+Ks 0.501961 0.501961 0.501961
+d 1

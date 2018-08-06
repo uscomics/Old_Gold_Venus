@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 77a0b0001a8bb4264803f1cf6e768ca0
+timeCreated: 1432459809
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Body
+    100004: //RootNode
+    100006: Head
+    100008: Hip
+    100010: Left Forearm
+    100012: Left Hand
+    100014: Left Shin
+    100016: Left Shoulder
+    100018: Left Thigh
+    100020: lHeel
+    100022: lHip
+    100024: lIndex1
+    100026: lIndex2
+    100028: lIndex3
+    100030: lMid1
+    100032: lMid2
+    100034: lMid3
+    100036: lPinky1
+    100038: lPinky2
+    100040: lPinky3
+    100042: lRing1
+    100044: lRing2
+    100046: lRing3
+    100048: lShldrjoint
+    100050: lThumb1
+    100052: lThumb2
+    100054: lThumb3
+    100056: lToe
+    100058: lUpArm
+    100060: lWheelpod
+    100062: Neck
+    100064: rHeel
+    100066: rHip
+    100068: Right Forearm
+    100070: Right Hand
+    100072: Right Shin
+    100074: Right Shoulder
+    100076: Right Thigh
+    100078: rIndex1
+    100080: rIndex2
+    100082: rIndex3
+    100084: rMid1
+    100086: rMid2
+    100088: rMid3
+    100090: rPinky1
+    100092: rPinky2
+    100094: rPinky3
+    100096: rRing1
+    100098: rRing2
+    100100: rRing3
+    100102: rShldrjoint
+    100104: rThumb1
+    100106: rThumb2
+    100108: rThumb3
+    100110: rToe
+    100112: rUpArm
+    100114: rWheelpod
+    100116: sensorLid
+    100118: shoulderBars
+    100120: StandingArmor
+    100122: turret
+    400000: Abdomen
+    400002: Body
+    400004: //RootNode
+    400006: Head
+    400008: Hip
+    400010: Left Forearm
+    400012: Left Hand
+    400014: Left Shin
+    400016: Left Shoulder
+    400018: Left Thigh
+    400020: lHeel
+    400022: lHip
+    400024: lIndex1
+    400026: lIndex2
+    400028: lIndex3
+    400030: lMid1
+    400032: lMid2
+    400034: lMid3
+    400036: lPinky1
+    400038: lPinky2
+    400040: lPinky3
+    400042: lRing1
+    400044: lRing2
+    400046: lRing3
+    400048: lShldrjoint
+    400050: lThumb1
+    400052: lThumb2
+    400054: lThumb3
+    400056: lToe
+    400058: lUpArm
+    400060: lWheelpod
+    400062: Neck
+    400064: rHeel
+    400066: rHip
+    400068: Right Forearm
+    400070: Right Hand
+    400072: Right Shin
+    400074: Right Shoulder
+    400076: Right Thigh
+    400078: rIndex1
+    400080: rIndex2
+    400082: rIndex3
+    400084: rMid1
+    400086: rMid2
+    400088: rMid3
+    400090: rPinky1
+    400092: rPinky2
+    400094: rPinky3
+    400096: rRing1
+    400098: rRing2
+    400100: rRing3
+    400102: rShldrjoint
+    400104: rThumb1
+    400106: rThumb2
+    400108: rThumb3
+    400110: rToe
+    400112: rUpArm
+    400114: rWheelpod
+    400116: sensorLid
+    400118: shoulderBars
+    400120: StandingArmor
+    400122: turret
+    4300000: StandingArmor
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: StandingArmor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2824 @@
+fileFormatVersion: 2
+guid: c595cdce7d9ea4e2dba1221364b05189
+timeCreated: 1433452973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Body
+    100004: BodyMorphs
+    100006: Chest
+    100008: eyeBrow
+    100010: Figure
+    100012: //RootNode
+    100014: Head
+    100016: Hip
+    100018: Left Buttock
+    100020: Left Collar
+    100022: Left Foot
+    100024: Left Forearm
+    100026: Left Hand
+    100028: Left Shin
+    100030: Left Shoulder
+    100032: Left Thigh
+    100034: lEye
+    100036: lIndex1
+    100038: lIndex2
+    100040: lIndex3
+    100042: LM_A3SDHolster
+    100044: lMid1
+    100046: lMid2
+    100048: lMid3
+    100050: lowerJaw
+    100052: lPinky1
+    100054: lPinky2
+    100056: lPinky3
+    100058: lRing1
+    100060: lRing2
+    100062: lRing3
+    100064: lThumb1
+    100066: lThumb2
+    100068: lThumb3
+    100070: lToe
+    100072: Neck
+    100074: rEye
+    100076: Right Buttock
+    100078: Right Collar
+    100080: Right Foot
+    100082: Right Forearm
+    100084: Right Hand
+    100086: Right Shin
+    100088: Right Shoulder
+    100090: Right Thigh
+    100092: rIndex1
+    100094: rIndex2
+    100096: rIndex3
+    100098: rMid1
+    100100: rMid2
+    100102: rMid3
+    100104: rPinky1
+    100106: rPinky2
+    100108: rPinky3
+    100110: rRing1
+    100112: rRing2
+    100114: rRing3
+    100116: rThumb1
+    100118: rThumb2
+    100120: rThumb3
+    100122: rToe
+    100124: tongue01
+    100126: tongue02
+    100128: tongue03
+    100130: tongue04
+    100132: tongue05
+    100134: tongueBase
+    100136: tongueTip
+    100138: upperJaw
+    400000: Abdomen
+    400002: Body
+    400004: BodyMorphs
+    400006: Chest
+    400008: eyeBrow
+    400010: Figure
+    400012: //RootNode
+    400014: Head
+    400016: Hip
+    400018: Left Buttock
+    400020: Left Collar
+    400022: Left Foot
+    400024: Left Forearm
+    400026: Left Hand
+    400028: Left Shin
+    400030: Left Shoulder
+    400032: Left Thigh
+    400034: lEye
+    400036: lIndex1
+    400038: lIndex2
+    400040: lIndex3
+    400042: LM_A3SDHolster
+    400044: lMid1
+    400046: lMid2
+    400048: lMid3
+    400050: lowerJaw
+    400052: lPinky1
+    400054: lPinky2
+    400056: lPinky3
+    400058: lRing1
+    400060: lRing2
+    400062: lRing3
+    400064: lThumb1
+    400066: lThumb2
+    400068: lThumb3
+    400070: lToe
+    400072: Neck
+    400074: rEye
+    400076: Right Buttock
+    400078: Right Collar
+    400080: Right Foot
+    400082: Right Forearm
+    400084: Right Hand
+    400086: Right Shin
+    400088: Right Shoulder
+    400090: Right Thigh
+    400092: rIndex1
+    400094: rIndex2
+    400096: rIndex3
+    400098: rMid1
+    400100: rMid2
+    400102: rMid3
+    400104: rPinky1
+    400106: rPinky2
+    400108: rPinky3
+    400110: rRing1
+    400112: rRing2
+    400114: rRing3
+    400116: rThumb1
+    400118: rThumb2
+    400120: rThumb3
+    400122: rToe
+    400124: tongue01
+    400126: tongue02
+    400128: tongue03
+    400130: tongue04
+    400132: tongue05
+    400134: tongueBase
+    400136: tongueTip
+    400138: upperJaw
+    2300000: LM_A3SDHolster
+    3300000: LM_A3SDHolster
+    4300000: Figure
+    4300002: LM_A3SDHolster
+    7400000: GoldVenus@BasePose
+    7400002: GoldVenus@Idle
+    7400004: GoldVenus@ClimbWallBegin
+    7400006: GoldVenus@Walk
+    7400008: GoldVenus@ClimbWall
+    7400010: GoldVenus@ClimbWallEnd
+    7400012: GoldVenus@Drop
+    7400014: GoldVenus@DropLand
+    7400016: GoldVenus@ClimbWallIdle
+    7400018: GoldVenus@Die
+    7400020: GoldVenus@Dead
+    9500000: //RootNode
+    13700000: Figure
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GoldVenus@BasePose
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 1
+      - path: Body/Hip/Left Buttock
+        weight: 1
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 1
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@Walk
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@ClimbWallBegin
+      takeName: Take 001
+      firstFrame: 352
+      lastFrame: 371
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@ClimbWall
+      takeName: Take 001
+      firstFrame: 372
+      lastFrame: 431
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@ClimbWallEnd
+      takeName: Take 001
+      firstFrame: 432
+      lastFrame: 514
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@Drop
+      takeName: Take 001
+      firstFrame: 516
+      lastFrame: 530
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@DropLand
+      takeName: Take 001
+      firstFrame: 531
+      lastFrame: 554
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@ClimbWallIdle
+      takeName: Take 001
+      firstFrame: 395
+      lastFrame: 405
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -.200000003
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: GoldVenus@Die
+      takeName: Take 001
+      firstFrame: 328
+      lastFrame: 351
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/Abdomen
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Left Collar/Left Shoulder/Left Forearm/Left Hand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/eyeBrow
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 0
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/rEye
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Neck/Head/upperJaw
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2
+        weight: 1
+      - path: Body/Hip/Abdomen/Chest/Right Collar/Right Shoulder/Right Forearm/Right
+          Hand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Body/Hip/BodyMorphs
+        weight: 0
+      - path: Body/Hip/Left Buttock
+        weight: 0
+      - path: Body/Hip/Left Thigh
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot
+        weight: 1
+      - path: Body/Hip/Left Thigh/Left Shin/Left Foot/lToe
+        weight: 1
+      - path: Body/Hip/Right Buttock
+        weight: 0
+      - path: Body/Hip/Right Thigh
+        weight: 1
+      - path: Body/Hip/Right Thigh/LM_A3SDHolster
+        weight: 0
+      - path: Body/Hip/Right Thigh/Right Shin
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot
+        weight: 1
+      - path: Body/Hip/Right Thigh/Right Shin/Right Foot/rToe
+        weight: 1
+      - path: Figure
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Shin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Shin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Abdomen
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Collar
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Collar
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Shoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Shoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lToe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rToe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upperJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lMid1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lMid2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lMid3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rMid1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rMid2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rMid3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: GoldVenus(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Figure
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Body
+      position: {x: 0, y: 1.2162739, z: .0157276802}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip
+      position: {x: -0, y: -.0719593093, z: -.00791626517}
+      rotation: {x: -1.01643954e-16, y: -1.16415322e-08, z: -1.18329136e-24, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Abdomen
+      position: {x: -0, y: .149444342, z: .00791626517}
+      rotation: {x: 1.35525272e-16, y: 1.16415322e-08, z: 2.9103826e-09, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Chest
+      position: {x: -0, y: .136306614, z: -.0235915203}
+      rotation: {x: -8.47033212e-17, y: -1.16415348e-08, z: -1.45519075e-09, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck
+      position: {x: -0, y: .275234371, z: -.0393191986}
+      rotation: {x: 5.82076698e-09, y: 1.16415348e-08, z: 1.45519108e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -0, y: .0865022242, z: .00524255726}
+      rotation: {x: -1.16415331e-08, y: -5.82076609e-09, z: 2.18278728e-09, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: eyeBrow
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: rEye
+      position: {x: .0384620465, y: .0921014398, z: .105164446}
+      rotation: {x: 1.74622965e-08, y: 3.63797881e-09, z: -6.36646291e-09, w: 1}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: lEye
+      position: {x: -.0384620465, y: .0921014398, z: .105164446}
+      rotation: {x: 1.74622965e-08, y: 3.63797881e-09, z: -6.36646291e-09, w: 1}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: upperJaw
+      position: {x: .000107472479, y: .034760911, z: .0741245598}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: lowerJaw
+      position: {x: .000121322548, y: .0640249327, z: .0381780006}
+      rotation: {x: 1.74622983e-08, y: 1.16415322e-08, z: -6.54836185e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongueBase
+      position: {x: -.000121322548, y: -.0587823465, z: .0430816822}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongue01
+      position: {x: .000101409729, y: .00688354485, z: .00244591944}
+      rotation: {x: 1.16415357e-08, y: -2.91038305e-09, z: 7.27595761e-09, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: tongue02
+      position: {x: 2.26137217e-06, y: .00769607536, z: .00598175498}
+      rotation: {x: -2.32830679e-08, y: -5.82076654e-09, z: -2.9103826e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongue03
+      position: {x: 7.82199209e-07, y: .00703811646, z: .00725701312}
+      rotation: {x: -4.65661287e-08, y: -3.08563912e-16, z: -2.91038349e-09, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: tongue04
+      position: {x: 4.62913874e-07, y: .00583755458, z: .00735558011}
+      rotation: {x: 4.65661252e-08, y: 5.82076742e-09, z: -5.82076609e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongue05
+      position: {x: 8.11545135e-07, y: .00338943466, z: .00386193278}
+      rotation: {x: 3.61200599e-15, y: 2.1024642e-23, z: 4.4408921e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongueTip
+      position: {x: -4.81009465e-07, y: .00472869864, z: .00569132296}
+      rotation: {x: 5.92923262e-17, y: 3.45126745e-25, z: 4.4408921e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Right Collar
+      position: {x: .0340766422, y: .238536522, z: -.0419404767}
+      rotation: {x: -5.25160692e-16, y: 3.49246037e-08, z: -1.89174933e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Right Shoulder
+      position: {x: .125821441, y: -.00524246227, z: -.00262128352}
+      rotation: {x: 1.12478542e-08, y: .00329135032, z: .00548559707, w: .999979556}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Right Forearm
+      position: {x: .319796205, y: -.0262127686, z: .0157276802}
+      rotation: {x: .00237911544, y: .219455332, z: .00436140504, w: .975609958}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Right Hand
+      position: {x: .238536447, y: -.00524276728, z: .133685291}
+      rotation: {x: -1.16415322e-08, y: -1.16415322e-08, z: 2.91038349e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rThumb1
+      position: {x: -.00524246227, y: -.00262115477, z: .0288340747}
+      rotation: {x: -.0569158345, y: -.0218651872, z: .0136864269, w: .998045743}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rThumb2
+      position: {x: .0131063843, y: -.00786392204, z: .0419404879}
+      rotation: {x: -.0662077367, y: -.164257944, z: -.0101088285, w: .984141171}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rThumb3
+      position: {x: .0225743856, y: -.010686798, z: .0257996749}
+      rotation: {x: 9.31322575e-08, y: 3.49246037e-08, z: -3.49246001e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: rIndex1
+      position: {x: .0576682277, y: .0104852291, z: .0655320063}
+      rotation: {x: -.0830381289, y: .0783091411, z: .108573876, w: .987514079}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: rIndex2
+      position: {x: .0271328725, y: -.0112165827, z: .0288414191}
+      rotation: {x: -.144818813, y: -.00630716328, z: .133786783, w: .980351448}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: rIndex3
+      position: {x: .0127996821, y: -.0165951531, z: .013072853}
+      rotation: {x: 2.32830661e-08, y: 1.35525272e-16, z: -1.87436872e-15, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: rMid1
+      position: {x: .0681533813, y: .0104852291, z: .0445617661}
+      rotation: {x: -.0575132929, y: -.001373576, z: .0882848129, w: .994432569}
+      scale: {x: .999999881, y: .999999821, z: 1}
+      transformModified: 1
+    - name: rMid2
+      position: {x: .0407660678, y: -.0118377684, z: .0263729561}
+      rotation: {x: -.148362041, y: .0538534634, z: .253503323, w: .954371333}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: rMid3
+      position: {x: .0136595154, y: -.0228392016, z: .0128461076}
+      rotation: {x: 1.16415304e-08, y: 1.16415322e-08, z: -8.73114914e-09, w: 1}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rRing1
+      position: {x: .0760171488, y: -.00262115477, z: .0288340747}
+      rotation: {x: -.0661667436, y: -.062581189, z: .115921378, w: .98907423}
+      scale: {x: .999999821, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rRing2
+      position: {x: .0339429453, y: -.0103935236, z: .0137632936}
+      rotation: {x: -.0603203624, y: .0664475486, z: .198940217, w: .975893974}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: rRing3
+      position: {x: .0174183659, y: -.0194000248, z: .0117611596}
+      rotation: {x: 1.16415313e-08, y: -6.84890512e-16, z: -3.92901711e-08, w: 1}
+      scale: {x: .999999762, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: rPinky1
+      position: {x: .0760171488, y: -.0104850763, z: .00786383636}
+      rotation: {x: -.135905504, y: -.083557941, z: .227516472, w: .960616469}
+      scale: {x: 1, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: rPinky2
+      position: {x: .0288341511, y: -.0183488466, z: .0104851248}
+      rotation: {x: -.0278992802, y: .0789031684, z: .214802608, w: .973065138}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: rPinky3
+      position: {x: .00825958233, y: -.0170147698, z: .00732279755}
+      rotation: {x: -8.7970809e-16, y: 2.91038216e-09, z: -1.01863389e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Left Collar
+      position: {x: -.0340766422, y: .238536522, z: -.0419404767}
+      rotation: {x: 2.91038238e-09, y: 2.66030009e-15, z: 1.81898907e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Left Shoulder
+      position: {x: -.125821441, y: -.00524246227, z: -.00262128352}
+      rotation: {x: 2.05346087e-08, y: -.00329134148, z: -.0054855952, w: .999979556}
+      scale: {x: 1.00000024, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Left Forearm
+      position: {x: -.319796205, y: -.0262127686, z: .0157276802}
+      rotation: {x: .00237912475, y: -.219455391, z: -.00436141388, w: .975609899}
+      scale: {x: .999999881, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Left Hand
+      position: {x: -.238536447, y: -.00524276728, z: .133685291}
+      rotation: {x: -2.32830608e-08, y: -4.94765082e-08, z: 2.03726813e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: lThumb1
+      position: {x: .00524246227, y: -.00262115477, z: .0288340747}
+      rotation: {x: -.0569163598, y: .0218657777, z: -.0136866495, w: .998045623}
+      scale: {x: .999999821, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: lThumb2
+      position: {x: -.0131063843, y: -.00786392204, z: .0419404879}
+      rotation: {x: -.0662063435, y: .164257824, z: .0101094339, w: .98414129}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: lThumb3
+      position: {x: -.0225743856, y: -.010686798, z: .0257996749}
+      rotation: {x: 2.32830644e-08, y: -1.45519041e-09, z: -3.12866177e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: lIndex1
+      position: {x: -.0576682277, y: .0104852291, z: .0655320063}
+      rotation: {x: -.0830385163, y: -.0783093348, z: -.108574346, w: .987514019}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: lIndex2
+      position: {x: -.0271328725, y: -.0112165827, z: .0288414191}
+      rotation: {x: -.144819513, y: .00630641636, z: -.133788079, w: .98035109}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: lIndex3
+      position: {x: -.0127996821, y: -.0165951531, z: .013072853}
+      rotation: {x: -2.32830644e-08, y: 5.82076645e-08, z: -3.49246001e-08, w: 1}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: lMid1
+      position: {x: -.0681533813, y: .0104852291, z: .0445617661}
+      rotation: {x: -.0575136431, y: .00137337914, z: -.0882853344, w: .994432509}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: lMid2
+      position: {x: -.0407660678, y: -.0118377684, z: .0263729561}
+      rotation: {x: -.148361087, y: -.0538536422, z: -.253502488, w: .954371691}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: lMid3
+      position: {x: -.0136595154, y: -.0228392016, z: .0128461076}
+      rotation: {x: 1.1641534e-08, y: 1.16415286e-08, z: -1.16415331e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: lRing1
+      position: {x: -.0760171488, y: -.00262115477, z: .0288340747}
+      rotation: {x: -.0661669672, y: .0625814199, z: -.115922019, w: .989074171}
+      scale: {x: 1, y: .999999821, z: 1}
+      transformModified: 1
+    - name: lRing2
+      position: {x: -.0339429453, y: -.0103935236, z: .0137632936}
+      rotation: {x: -.0603213757, y: -.0664486364, z: -.198943466, w: .975893199}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: lRing3
+      position: {x: -.0174183659, y: -.0194000248, z: .0117611596}
+      rotation: {x: -1.0950984e-15, y: 3.4924593e-08, z: -5.8207652e-09, w: 1}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: lPinky1
+      position: {x: -.0760171488, y: -.0104850763, z: .00786383636}
+      rotation: {x: -.135905147, y: .0835576728, z: -.227516413, w: .960616589}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: lPinky2
+      position: {x: -.0288341511, y: -.0183488466, z: .0104851248}
+      rotation: {x: -.0278993994, y: -.0789028928, z: -.214802682, w: .973065197}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: lPinky3
+      position: {x: -.00825958233, y: -.0170147698, z: .00732279755}
+      rotation: {x: -2.32830644e-08, y: 5.82076076e-09, z: -8.73115358e-09, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Right Thigh
+      position: {x: .0969873667, y: -.0261813346, z: .00267370581}
+      rotation: {x: 5.82076609e-09, y: 5.82076609e-08, z: -5.82076609e-09, w: 1}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LM_A3SDHolster
+      position: {x: .1220534, y: -.256764889, z: -.019883424}
+      rotation: {x: 8.49739736e-05, y: -.000170703672, z: -1.45053676e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Right Shin
+      position: {x: -.0235915221, y: -.492800653, z: -.015727682}
+      rotation: {x: -2.32830644e-08, y: -6.98491931e-08, z: -1.12171557e-15, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Right Foot
+      position: {x: -.0104851248, y: -.456102788, z: -.039319206}
+      rotation: {x: 2.91038322e-08, y: 6.9849186e-08, z: 2.32830608e-08, w: 1}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rToe
+      position: {x: .020970244, y: -.120578885, z: .115336336}
+      rotation: {x: -2.32830661e-08, y: 7.3764779e-15, z: -1.16415286e-08, w: 1}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Left Thigh
+      position: {x: -.0969873667, y: -.0261813346, z: .00267370581}
+      rotation: {x: 1.01643954e-16, y: -8.87468518e-25, z: 8.73114914e-09, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Left Shin
+      position: {x: .0235915221, y: -.492800653, z: -.015727682}
+      rotation: {x: 1.16415322e-08, y: 3.4924593e-08, z: -1.45519143e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Left Foot
+      position: {x: .0104851248, y: -.456102788, z: -.039319206}
+      rotation: {x: 6.77626225e-17, y: -1.16415286e-08, z: -7.52653201e-16, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: lToe
+      position: {x: -.020970244, y: -.120578885, z: .115336336}
+      rotation: {x: -2.32830644e-08, y: -2.32830644e-08, z: 2.91038305e-09, w: 1}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BodyMorphs
+      position: {x: -0, y: -1.06682956, z: -.00781141501}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Right Buttock
+      position: {x: .0943660811, y: -.125790015, z: -.0314029343}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Left Buttock
+      position: {x: -.110093765, y: -.0917133316, z: -.0287816562}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

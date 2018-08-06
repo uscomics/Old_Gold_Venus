@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 73418e669aebe4794bd1db7aa8a96f67
+timeCreated: 1432596951
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: RS21_CBW_seat
+    100006: RS21_CBW_seat_shaft
+    100008: RS21_CBWS_main_arm
+    100010: RS21_CBWS_SAF_axis
+    100012: RS21_CBWS_SAR_axis
+    100014: RS21_CBWS_sub_arm
+    100016: RS21_cockpit_BW
+    100018: RS21_cockpit_floor_Lo_A
+    100020: RS21_cockpit_front_Lo_A
+    100022: RS21_cockpit_left_Lo_A
+    100024: RS21_cockpit_LoR
+    100026: RS21_cockpit_Right_Lo_A
+    400000: Body
+    400002: //RootNode
+    400004: RS21_CBW_seat
+    400006: RS21_CBW_seat_shaft
+    400008: RS21_CBWS_main_arm
+    400010: RS21_CBWS_SAF_axis
+    400012: RS21_CBWS_SAR_axis
+    400014: RS21_CBWS_sub_arm
+    400016: RS21_cockpit_BW
+    400018: RS21_cockpit_floor_Lo_A
+    400020: RS21_cockpit_front_Lo_A
+    400022: RS21_cockpit_left_Lo_A
+    400024: RS21_cockpit_LoR
+    400026: RS21_cockpit_Right_Lo_A
+    2300000: RS21_CBW_seat
+    2300002: RS21_CBW_seat_shaft
+    2300004: RS21_CBWS_main_arm
+    2300006: RS21_CBWS_SAF_axis
+    2300008: RS21_CBWS_SAR_axis
+    2300010: RS21_CBWS_sub_arm
+    2300012: RS21_cockpit_floor_Lo_A
+    2300014: RS21_cockpit_front_Lo_A
+    2300016: RS21_cockpit_left_Lo_A
+    2300018: RS21_cockpit_Right_Lo_A
+    3300000: RS21_CBW_seat
+    3300002: RS21_CBW_seat_shaft
+    3300004: RS21_CBWS_main_arm
+    3300006: RS21_CBWS_SAF_axis
+    3300008: RS21_CBWS_SAR_axis
+    3300010: RS21_CBWS_sub_arm
+    3300012: RS21_cockpit_floor_Lo_A
+    3300014: RS21_cockpit_front_Lo_A
+    3300016: RS21_cockpit_left_Lo_A
+    3300018: RS21_cockpit_Right_Lo_A
+    4300000: RS21_cockpit_LoR
+    4300002: RS21_CBW_seat_shaft
+    4300004: RS21_CBWS_main_arm
+    4300006: RS21_CBWS_SAR_axis
+    4300008: RS21_CBWS_sub_arm
+    4300010: RS21_CBWS_SAF_axis
+    4300012: RS21_CBW_seat
+    4300014: RS21_cockpit_floor_Lo_A
+    4300016: RS21_cockpit_left_Lo_A
+    4300018: RS21_cockpit_Right_Lo_A
+    4300020: RS21_cockpit_front_Lo_A
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: RS21_cockpit_LoR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

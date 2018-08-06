@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red49\green49\blue49;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Welcome to the Logger facility for adding rich logging to your Unity applications.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+To see Logger in action, unzip Logger Demo.zip and open the html file in a browser that supports HTML 5 (all modern browsers do). Take care to notice the message types, categories, and subcategories on the left side of the screen and the buttons for hiding and showing these elements on the upper right side of the screen. Also notice the wide array of message types, including screen shots and charts, available to you.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 To get started with Logger, just copy Logger.cs into your Unity Assets scripts folder for your project. \
+\
+The Logger class has several static public variables you can tune to customize how the Logger works. These are:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f1\fs20 \cf2 \expnd0\expndtw0\kerning0
+public static string logPath = "./Logging";\
+public static string screenshotSubfolder = "screens";\
+public static string logFile = "log.html";\
+public static bool logToHTML = true;\
+public static bool logToConsole = true;\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \
+The API calls to use the logger in your code look like this:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f1\fs20 \cf2 \expnd0\expndtw0\kerning0
+using General;\
+Logger.Log(\'93LiftTrigger", "OnTriggerEnter", "Player in lift.");\
+Logger.LogError("Chase", "Awake", "Could not find enemy's NavMeshAgent.");\
+Logger.LogException("Chase", \'93Awake", oException);\
+Logger.LogDetail("Player", "SetMovementType", movementTypes);\
+Logger.LogScreenShot("Player", \'93SetMovementType");\
+Logger.LogChart("Player", "SetMovementType", chartSpeedMovement);\
+Logger.LogStackTrace("Player", "SetMovementType");\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \
+To take screen shots, you must create a sub-folder to store the images and reference that sub-folder using the 
+\f1\fs20 \cf2 \expnd0\expndtw0\kerning0
+screenshotSubfolder
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0  static variable.\
+\
+To learn more about Logger, including how to set up charts, please see Logger.pdf.\
+}
